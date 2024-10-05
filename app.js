@@ -47,7 +47,7 @@ btn.addEventListener('click', () => {
 function takeCommand(message) {
     if (message.includes('hey') || message.includes('hello')) {
         speak("Hello Rohit, How May I Help You?");
-    } else if(message == ('vivek') || message == ('hardik') || message == ('gyan') || message == ('sambit') || message == ('akhilesh') || message == ('om') || message == ('sombar') || message == ('ratnesh') || message == ('yash') || message == ('devanshu') || message == ('divyanshu')){
+    } else if(message == ('vivek') || message == ('p j c') || message == ('hardik') || message == ('gyan') || message == ('sambit') || message == ('akhilesh') || message == ('om') || message == ('sombar') || message == ('ratnesh') || message == ('yash') || message == ('devanshu') || message == ('divyanshu')){
         g1 = message + "behen ke lowde."
         g2 = message + "ki maa ka bhosda."
         g3 = message + "ki maa ki chhuuut. "
